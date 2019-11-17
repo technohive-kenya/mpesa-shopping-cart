@@ -1,0 +1,14 @@
+{
+    "name": "technohive-kenya/mpesa-shopping-cart",
+    "description": "Easily integrate mpesa to your shopping cart",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TechnoHive Solutions",
+            "email": "info@technohive.co.ke"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
